@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Backend repo: https://github.com/Kendi-Nceene/one-stop-shopper-backend
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
